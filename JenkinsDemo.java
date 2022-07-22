@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Addition
+public class JenkinsDemo
 {
     public static void main(String args[])
     {
